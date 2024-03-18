@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "../src/assets/1.jpg",
+    "title": "The Enigma of Time",
+    "author": "Eleanor Smith",
+    "author_img": "../src/assets/boy1.png",
+    "posted_date": "2024-03-18",
+    "reading_time": 25,
+    "hashtags": ["time", "mystery", "fiction"]
+  },
+  {
+    "id": 2,
+    "cover": "../src/assets/2.png",
+    "title": "Echoes of Eternity",
+    "author": "John Doe",
+    "author_img": "../src/assets/boy2.png",
+    "posted_date": "2024-03-17",
+    "reading_time": 30,
+    "hashtags": ["eternity", "philosophy", "fiction"]
+  },
+  {
+    "id": 3,
+    "cover": "../src/assets/3.png",
+    "title": "Journey Through the Stars",
+    "author": "Ava Johnson",
+    "author_img": "../src/assets/girl1.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": 20,
+    "hashtags": ["space", "adventure", "fiction"]
+  },
+  {
+    "id": 4,
+    "cover": "../src/assets/1.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Michael Thompson",
+    "author_img": "../src/assets/girl2.jpg",
+    "posted_date": "2024-03-15",
+    "reading_time": 35,
+    "hashtags": ["wind", "mystery", "fiction"]
+  },
+  {
+    "id": 5,
+    "cover": "../src/assets/2.png",
+    "title": "Beyond the Horizon",
+    "author": "Sophia Rodriguez",
+    "author_img": "../src/assets/boy1.png",
+    "posted_date": "2024-03-14",
+    "reading_time": 40,
+    "hashtags": ["horizon", "adventure", "fiction"]
+  }
+]
